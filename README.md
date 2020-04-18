@@ -1,2 +1,3 @@
 # Hysteresis-curve
-Only a small project
+Only a small project.
+The effect may not be very good, only for practice.
